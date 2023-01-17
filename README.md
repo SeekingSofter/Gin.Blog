@@ -1,2 +1,2 @@
 # Gin.Blog
-Golang博客项目
+Golang全栈博客项目
